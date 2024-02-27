@@ -1,5 +1,15 @@
 # Tinytapeout 02 bringup
-The installation (bring-up) of the Tinytapeout 02 chip and board.
+The installation (bring-up) of Project 41 inide the Tinytapeout 02 chip and board.
+
+## Links
+[TT02 overview page](https://tinytapeout.com/runs/tt02/)
+
+[Project 41 on TT02: 8x8 Memory Player](https://tinytapeout.com/runs/tt02/041/)
+
+[Design of 8x8 Mem Player in Wokwi](https://wokwi.com/projects/341620484740219475)
+
+[GitHub repo containing the GDS of the 8x8 Mem Player](https://github.com/ThorKn/tinytapeout02_pattern_player)
+
 
 ## Setup
 __Important:__ There is an __error in the documentation__ of this project (P41 - 8x8Bit Pattern Player). The official TT02 docs and the pdf have the first two pins in the wrong order. Pin IN0 is clk_sr and Pin IN1 is data.
