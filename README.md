@@ -49,3 +49,6 @@ You should see the letters of THORSTEN displayed one after another on the 8-segm
 2. Write another python script to use the adress lines (3 Bit) of the 8x8 memory instead of the player. You must wire addition three cables and switch the mode switch to use addresses.
 3. Connect some other device to the output pins. Maybe a 8-Bit R2R DAC (digital-analog converter made from resistors) and make some sounds with the chip.
 
+
+## Video of the bring up (Youtube Link)
+[![Youtube Link to the bring up video](https://img.youtube.com/vi/s8wlr6rbLyo/0.jpg)](https://www.youtube.com/watch?v=s8wlr6rbLyo)
