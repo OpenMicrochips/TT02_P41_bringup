@@ -25,10 +25,10 @@ Wire the RasPi and the TT02 Board with 4 jumper cables like in this table:
 Configure the mode of the chip (Pin IN5) as a player. For this bit the dip-switches on the TT02 can be used. 
 
 You can see the dip-switches and cable connections in these pictures:
-![TT02 board input pins](tt02_board_input_pins.jpg)
-![TT02 board select project](tt02_board_project_p41.jpg)
-![TT02 board RasPi cables](tt02_board_wires_1.jpg)
-![TT02 board TT02 cables](tt02_board_wires_2.jpg)
+![TT02 board input pins](pics/tt02_board_input_pins.jpg)
+![TT02 board select project](pics/tt02_board_project_p41.jpg)
+![TT02 board RasPi cables](pics/tt02_board_wires_1.jpg)
+![TT02 board TT02 cables](pics/tt02_board_wires_2.jpg)
 
 ## Programm the Memory
 Upload the python script ```p41_prog.py``` to the RasPi and run it with 
